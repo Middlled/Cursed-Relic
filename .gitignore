@@ -1,0 +1,12 @@
+# Ignorar arquivos executáveis e binários
+*.exe
+*.o
+*.obj
+
+# Ignorar bibliotecas dinâmicas
+*.dll
+
+# Ignorar pastas de compilação (se o VS Code criar alguma)
+.vscode/
+bin/
+obj/
